@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class MainController {
 
 
-    String[] students = new String[]{"Kuldeep", "Sam", "Rohan", "Vishrut"};
+    String[] students = new String[]{"Kuldeep", "Sam", "Rohan", "Vishrut", "Mrinalini"};
 
 
     @GetMapping("/ping")
